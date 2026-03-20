@@ -10,7 +10,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <Link href="/" className="navbar-logo">
-        ⬡ <span>Telos</span> DAO
+         <span>Telos</span> DAO
       </Link>
 
       <div className="navbar-nav">
